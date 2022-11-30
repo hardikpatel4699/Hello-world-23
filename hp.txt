@@ -1,7 +1,2 @@
 this is new file
-
-
-
-
-
-
+hi this is the new project test file
